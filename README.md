@@ -127,7 +127,7 @@ require("dotenv").config();
   var spotify = new Spotify(keys.spotify);
   ```
 
-9. Make it so liri.js can take in one of the following commands:
+9. Make it so liri.js can take in one of the following arguments:
 
    * `concert-this`
 
